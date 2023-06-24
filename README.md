@@ -1,2 +1,2 @@
 # pygame-drawing-board
-This is the code of pygame drawing board
+This is the code of whiteboard programme
